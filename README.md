@@ -15,12 +15,14 @@
   - [3. [웹사이트 전용] 동영상 퀘스트 완료 가이드](#3-웹사이트-전용-동영상-퀘스트-완료-가이드-웹-브라우저)
   - [4. [데스크톱 앱 전용] 게임 플레이 포함 모든 퀘스트 완료 가이드](#4-데스크톱-앱-전용-게임-플레이-포함-모든-퀘스트-완료-가이드-설치형-앱)
   - [5. 대시보드 조작법 및 단축키](#5-대시보드-조작법-및-단축키)
+  - [6. 소요 시간 및 24시간 갱신 주기 안내](#6-소요-시간-및-24시간-갱신-주기-안내)
 - [🇺🇸 English Guide](#-english-guide-영어-매뉴얼)
   - [1. Comparison: Web Browser vs Desktop App](#1-comparison-web-browser-vs-desktop-app)
   - [2. Prerequisite: Unlock Console Pasting](#2-prerequisite-unlock-console-pasting-allow-pasting)
   - [3. [Web Browser Only] Video Quests Guide](#3-web-browser-only-video-quests-guide)
   - [4. [Desktop App Only] All Quests (Game Play & Stream) Guide](#4-desktop-app-only-all-quests-game-play--stream-guide)
   - [5. Controls & Shortcuts](#5-controls--shortcuts)
+  - [6. Duration & 24-Hour Reset Cycle](#6-duration--24-hour-reset-cycle)
 
 ---
 
@@ -104,6 +106,17 @@
 - **스크립트 강제 중지**: 상단 우측 빨간색 **[중지]** 버튼 클릭
 
 ---
+
+### 6. 소요 시간 및 24시간 갱신 주기 안내
+
+- **퀘스트 진행 소요 시간**:
+  - 동영상 시청 퀘스트는 시작 즉시 수 초 내로 완료됩니다.
+  - 게임 플레이 및 스트리밍 퀘스트는 디스코드 서버 검증 기준으로 인해 약 **15분의 진행 대기 시간**이 소요됩니다.
+- **24시간 리셋 및 갱신 주기**:
+  - 이미 완료한 퀘스트나 수령 완료된 보상은 즉시 다시 진행할 수 없습니다.
+  - 디스코드 퀘스트는 보통 **24시간 주기(일일 리셋)** 또는 공식 이벤트 일정에 따라 순차적으로 갱신됩니다. 목록에 더 이상 진행할 퀘스트가 없다면 다음 24시간 갱신 주기를 기다려 주세요.
+
+---
 [맨 위로 이동 (Back to Top)](#디스코드-퀘스트-자동화-완벽-매뉴얼--discord-quests-automation-manual)
 ---
 
@@ -184,6 +197,17 @@ If pasting is blocked with a security warning in the console:
 - **Collapse / Expand Dashboard**: **Double-click** the top header
 - **Move Dashboard**: Click and **drag** the header bar
 - **Force Stop Automation**: Click the red **[STOP]** button in the top right
+
+---
+
+### 6. Duration & 24-Hour Reset Cycle
+
+- **Required Time**:
+  - Video quests finish almost immediately within a few seconds.
+  - Game play and streaming tasks take **approximately 15 minutes** of simulated activity due to Discord server-side interval checks.
+- **24-Hour Refresh Cycle**:
+  - Completed quests or claimed rewards cannot be repeated right away.
+  - New quests refresh following Discord's **daily 24-hour reset cycle** or official quest campaign updates. If no quests appear, please wait for the next 24-hour cycle.
 
 ---
 [맨 위로 이동 (Back to Top)](#디스코드-퀘스트-자동화-완벽-매뉴얼--discord-quests-automation-manual)
