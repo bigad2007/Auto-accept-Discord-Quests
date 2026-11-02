@@ -65,7 +65,7 @@
    - Windows: `F12` 또는 `Ctrl + Shift + I`
 3. **콘솔 탭 이동**: 상단 메뉴 중 **[Console]** 탭을 클릭합니다.
 4. **잠금 확인**: 붙여넣기가 안 될 경우 위의 [2번 항목](#2-필수-사전-작업-콘솔-붙여넣기-잠금-해제-allow-pasting)을 참고해 `allow pasting`을 입력합니다.
-5. **스크립트 붙여넣기**: Orion 자동화 스크립트 코드를 복사한 뒤 콘솔창에 붙여넣고 **Enter**를 누릅니다.
+5. **스크립트 붙여넣기**: 저장소 상단의 `Auto-accept Discord quests(korea).js` 파일에 들어있는 전체 코드를 복사한 뒤 콘솔창에 붙여넣고 **Enter**를 누릅니다.
 6. **언어 선택**: 화면 중앙 팝업에서 **[한국어]** 버튼을 클릭합니다.
 7. **퀘스트 진행**: 대시보드가 뜨면 영상 퀘스트가 체크되어 있는지 확인하고 **[시작]**을 누릅니다. 몇 초 만에 완료됩니다.
 
@@ -89,7 +89,7 @@
 2. **개발자 도구 열기**: `Option + Command + I` 단축키를 누르면 우측에 개발자 도구가 나타납니다.
 3. **콘솔 이동**: 상단에서 **[Console]** 탭을 클릭합니다.
 4. **입력 잠금 해제**: 빨간 경고창이 뜨면 `allow pasting` 입력 후 Enter를 누릅니다.
-5. **코드 실행**: 스크립트를 붙여넣고 Enter를 칩니다.
+5. **코드 실행**: 저장소에 있는 `Auto-accept Discord quests(korea).js` 파일의 코드를 복사하여 붙여넣고 Enter를 칩니다. (다중 게임 감지가 필요한 경우 `multi-game-presence.js` 활용)
 6. **언어 선택**: 화면 가운데 팝업에서 **[한국어]**를 선택합니다.
 7. **퀘스트 확인**: 웹에서는 보이지 않던 게임 플레이 퀘스트들이 목록에 전부 체크되어 나타납니다.
 8. **시작 및 수령**:
@@ -159,7 +159,7 @@ If pasting is blocked with a security warning in the console:
    - Windows: `F12` or `Ctrl + Shift + I`
 3. **Switch to Console**: Click on the **[Console]** tab at the top.
 4. **Unlock Pasting**: If pasting is blocked, type `allow pasting` and press Enter.
-5. **Paste Script**: Copy the Orion automation code, paste it into the console, and press **Enter**.
+5. **Paste Script**: Copy the code inside `Auto-accept Discord quests(english).js` from this repository, paste it into the console, and press **Enter**.
 6. **Choose Language**: Click **[English]** on the startup modal.
 7. **Start**: Review your video tasks and click the green **[START]** button.
 
@@ -182,7 +182,7 @@ If pasting is blocked with a security warning in the console:
 2. **Open Console**: Press `Option + Command + I`.
 3. **Go to Console Tab**: Click the **[Console]** tab.
 4. **Unlock Pasting**: Type `allow pasting` and press Enter if prompted.
-5. **Run Script**: Paste the script and hit **Enter**.
+5. **Run Script**: Copy the code inside `Auto-accept Discord quests(english).js` (or `multi-game-presence.js` for multiple active presences), paste it into the console, and hit **Enter**.
 6. **Select Language**: Click **[English]** on the language dialog.
 7. **Verify Quests**: Both Game Play and Video quests will now appear in the list.
 8. **Claim Rewards**:
